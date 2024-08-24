@@ -1,32 +1,26 @@
-Miniport by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Portfolio of Himanshu Pawar
 
+A comprehensive sales analysis report showcasing key insights and trends in pizza sales. This project highlights peak sales times, category performance, and product-specific revenue and order metrics.
 
-A super simple responsive portfolio template. It's only a single page because hey, sometimes
-you don't need a half dozen pages to make your point.
+Demo Report: Access the full report on Power BI.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Feedback, bug reports, and comments are highly encouraged and appreciated!
 
-(* = Not included)
+Himanshu Pawar
+himanshupawar322@gmail.com
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
+PS: For any questions or further customization, feel free to reach out.
 
 Credits:
+Data Visualization Tools:
+Power BI (powerbi.com)
 
-	Demo Images:
-		Unsplash (unsplash.com)
+Icons:
+Font Awesome (fontawesome.io)
 
-	Icons:
-		Font Awesome (fontawesome.io)
+Images:
+Placeholder image (to be updated with actual visuals)
 
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Libraries and Tools:
+jQuery (jquery.com)
+Responsive Tools (github.com/ajlkn/responsive-tools)
